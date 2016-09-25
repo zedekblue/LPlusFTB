@@ -1,0 +1,9 @@
+{"text":{"text":"Welcome to L+ Genesis!", "color":"dark_aqua", "bold":true}}
+
+If you're reading this, you're either very bored, or very lost on what to do.
+I've decided to write up a small quick-start for anyone new to ftb, as well as highlight a few of Genesis's best features.
+
+
+If you're completely new to ftb, jump into -Starting Out
+If you've played before, but new to many of the mods, check out -Progression
+If you're a veteran, but lacking motivation or guidance, check out -Endgame

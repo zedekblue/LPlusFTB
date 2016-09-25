@@ -1,0 +1,21 @@
+{"text":{"text":"01-Wood", "color":"dark_aqua", "bold":true}}
+
+The beginning of every Minecraft world begins the same way. Punch down a tree and start making yourself some tools.
+
+FTB comes with NEI, which you will notice on the right side of your screen when you open your inventory.
+You can left click on an item to see how to make it, or right click to see its uses!
+You can also do this while hovering over items in your inventory, however you'll need to check (and maybe change) your controls, since clicking is used to move them around.
+You can do this at the bottom left of your inventory (Options - KeyBindings - Inventory)
+
+FTB includes so many mods, you'll often need to change your controls. NEI's are in the inventory, however you can find the controls for most other mods in your settings after hitting ESC.
+
+
+Search for a wooden pickaxe at the bottom of your inventory screen, left click, and try to make one!
+For the 3x3 crafting grid, you'll need to make a crafting table. 
+
+Once you have that, you can start mining stone, and make a stone pickaxe!
+Keep going deeper to find some ores, and smelt them up in a furnace.
+
+
+
+For most of you, that's pretty basic stuff. NEI is part of FTB, but you'll play the beginning like every other vanilla minecraft world. Gather resources, upgrade, and explore.

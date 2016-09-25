@@ -1,0 +1,7 @@
+{"text":{"text":"02-Tinker", "color":"dark_aqua", "bold":true}}
+
+Tinker's Construct is one of the most basic and essential mods installed. It allows you to make much more dynamic tools, repair, and upgrade them with ease.
+You'll need the following items to get started:
+{"image":"stencil.png", "scale":-2}
+{"image":"part.png", "scale":-2}
+{"image":"forge.png", "scale":-2}

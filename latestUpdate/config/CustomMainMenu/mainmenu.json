@@ -201,7 +201,7 @@
 			"alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "L+ Genesis ver.1.0-Pre1",
+			"text" : "L+ Genesis ver.1.0",
 			"posX" : 3,
 			"posY" : -25,
 			"fontSize" : .6,

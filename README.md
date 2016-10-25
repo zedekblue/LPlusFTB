@@ -31,7 +31,7 @@ ComputerCraft 1.75
 Cookingbook 1.0.140  
 CosmeticArmor 1.0.5.B8  
 CraftTweaker 3.0.10  
-CustomMainMenu 1.9.2  
+CustomMainMenu 1.9.2 (CLIENT)  
 CustomNPCs 1.7.10d  
 CyanosWonderfulWands 1.4.2  
 Decocraft 2.3.2  
